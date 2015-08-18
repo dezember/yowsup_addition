@@ -17,22 +17,14 @@ Credits: @Narendra-Kumar
 
 
 
-Usage: ./yowsup-cli demos -c config.example -me PhoneNumber File Media
+Usage:
+
+    ./yowsup-cli demos -c config.example -me PhoneNumber File Media
+    eg. ./yowsup-cli demos -c config -me 491521234567 Willst-Du.mp3 audio
 
 
-eg. ./yowsup-cli demos -c config -me 491521234567 Willst-Du.mp3 audio
-
-
-PhoneNumber: 491234567891 country code first.
-
-
-File: Location of the file. I had them in the home directory, so no additional quotes were necessary.
-
-
-Media: Type of media. viz: audio, video, image.
-
-
-
-
+    PhoneNumber: 491234567891 country code first.
+    File: Location of the file. I had them in the home directory, so no additional quotes were necessary.
+    Media: Type of media. viz: audio, video, image.
 
 Quelle: https://github.com/tgalal/yowsup/issues/909#issuecomment-131303449
