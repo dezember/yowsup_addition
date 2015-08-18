@@ -4,8 +4,9 @@ Add the files:
 
 yowsup-cli to the root of the yowsup-cli. You may replace it or rename to yowsup-cli2 or as you want. 
 
-              stack.py > yowsup/demos/HERE
-              layer.py > yowsup/demos/HERE
+              stack.py > root/yowsup/demos/HERE
+              layer.py > root/yowsup/demos/HERE
+              sendmedia.py > root/yowsup/demos/HERE
               
 
 
